@@ -1,0 +1,14 @@
+1. Python is an object oriented programming language
+	- almost everything in Python is an object
+	- str(), int(), .... are the constructor functions
+
+2.Class
+	- class is the blueprint of the User
+	- Class is like an object constructor
+	- all classes have a __init__() function
+	- __init__() is executed automatically, whenever we create the objects from this class
+	- Functions inside the class also call as METHOD
+
+3. Objects
+	- every object belongs to its class
+	- collection of various data and functions that operate on those data
